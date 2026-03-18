@@ -1,16 +1,37 @@
-# R Data Visualization
+# Data Visualization and Reporting in R
 
-This project demonstrates data visualization using R and R Markdown.
+## Overview
+This project focuses on data visualization using R to present insights, trends, and patterns in a clear and structured way.
 
-The analysis focuses on presenting patterns, trends, and insights through clear visualizations and supporting interpretation.
+## Purpose
+The goal of this project is to demonstrate how data visualization can be used for reporting, communication, and decision support.
 
-## Tools
+## Features
+- Data visualization (charts, plots)
+- Trend analysis
+- Pattern identification
+- Insight communication
+- Structured reporting
 
+## Tech Stack
 - R
-- R Markdown
 - Data Visualization
-- Statistical Analysis
+- Data Analysis
 
-## Author
+## What I Learned
+- Visualizing complex data clearly
+- Communicating insights through charts
+- Identifying trends and patterns
+- Presenting data for decision-making
 
-Weiran Zeng
+## Use Case
+This type of visualization can be used for:
+- Business reports
+- Dashboard development
+- Data storytelling
+- Performance tracking
+
+## Future Improvements
+- Build interactive dashboards (Shiny / Web)
+- Automate report generation
+- Integrate with data pipelines
