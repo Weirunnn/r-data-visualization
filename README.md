@@ -43,4 +43,4 @@ It helps organizations communicate complex data more clearly and effectively.
 ---
 
 ## Author
-JC EXPRESS – AI, Data, Software & Automation Solutions
+J & C EXPRESS – AI, Data, Software & Automation Solutions
